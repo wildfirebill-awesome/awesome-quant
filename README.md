@@ -1,4 +1,5 @@
 # Awesome Quant
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
